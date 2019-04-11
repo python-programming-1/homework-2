@@ -4,7 +4,7 @@ This exercise to help you familiarize with git and github, and github classroom.
 
 0. Enter the command in your commandline/terminal/powershell.
 
-`git clone https://github.com/python-programming-1/class-home-YOUR-GITHUB-USERNAME.git`
+`git clone https://github.com/python-programming-1/homework-2-YOUR-GITHUB-USERNAME.git`
 
 Replace YOUR-GITHUB-USERNAME with your github username.
 
@@ -27,7 +27,7 @@ git push -u origin master
 
 enter your github account credentials if asked.
 
-4. click on https://github.com/python-programming-1/class-home-YOUR-GITHUB-USERNAME (replace YOUR-GITHUB-USERNAME with your actual github username)
+4. click on https://github.com/python-programming-1/homework-2-YOUR-GITHUB-USERNAME (replace YOUR-GITHUB-USERNAME with your actual github username)
 
 If you see HW2.txt and README.md on the website you've done the assignment, congratulations! If you don't see it, try to work with a classmate and backtrack, or submit a question in Canvas.
 
